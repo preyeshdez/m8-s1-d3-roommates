@@ -1,0 +1,22 @@
+{
+    "roommates": [
+        {
+            "id": "57922a99-2e72-404e-8f22-f83985abd2ad",
+            "nombre": "Olivia Rinne",
+            "debe": 0,
+            "recibe": 0
+        },
+        {
+            "id": "e200a092-21f7-46fc-a674-6cea49f543f9",
+            "nombre": "Sergio Rivas",
+            "debe": 0,
+            "recibe": 0
+        },
+        {
+            "id": "059b57df-16f4-4c2b-8457-def5560391ca",
+            "nombre": "Christopher Ramos",
+            "debe": 0,
+            "recibe": 0
+        }
+    ]
+}
